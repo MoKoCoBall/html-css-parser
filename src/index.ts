@@ -6,11 +6,12 @@ const htmlString = `
     <title>Hello</title>
   </head>
   <body>
-    <div class="hello-container">Hello</div>
-    <div class="world-container">World</div>
-    <div class="button-container">
+    <div class="hello">Hello</div>
+    <div class="world">World</div>
+    <div class="button">
       <button>Click me</button>
-      <span id="hello-span">Hello <strong>Strong</strong> World</span>
+      <p><img src="*" alt="image" />Image</p>
+      <span id="span">Hello World</span>
     </div>
   </body>
 </html>`;
